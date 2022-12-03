@@ -1,13 +1,13 @@
 {
   "main.css": "/later-app/static/css/main.d8c33b0c.chunk.css",
-  "main.js": "/later-app/static/js/main.3382ef4e.chunk.js",
-  "main.js.map": "/later-app/static/js/main.3382ef4e.chunk.js.map",
+  "main.js": "/later-app/static/js/main.06486c3d.chunk.js",
+  "main.js.map": "/later-app/static/js/main.06486c3d.chunk.js.map",
   "runtime~main.js": "/later-app/static/js/runtime~main.97df5dc1.js",
   "runtime~main.js.map": "/later-app/static/js/runtime~main.97df5dc1.js.map",
-  "static/js/2.9e3599a7.chunk.js": "/later-app/static/js/2.9e3599a7.chunk.js",
-  "static/js/2.9e3599a7.chunk.js.map": "/later-app/static/js/2.9e3599a7.chunk.js.map",
+  "static/js/2.ba1b3998.chunk.js": "/later-app/static/js/2.ba1b3998.chunk.js",
+  "static/js/2.ba1b3998.chunk.js.map": "/later-app/static/js/2.ba1b3998.chunk.js.map",
   "index.html": "/later-app/index.html",
-  "precache-manifest.b1acffa1a6f1a983bd244f1319f7c5ec.js": "/later-app/precache-manifest.b1acffa1a6f1a983bd244f1319f7c5ec.js",
+  "precache-manifest.85051217a6118e1d93fc84832c74bd19.js": "/later-app/precache-manifest.85051217a6118e1d93fc84832c74bd19.js",
   "service-worker.js": "/later-app/service-worker.js",
   "static/css/main.d8c33b0c.chunk.css.map": "/later-app/static/css/main.d8c33b0c.chunk.css.map"
 }
