@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "af01b3abd5626e261578",
+    "revision": "7b657163883548d22c48",
     "url": "/later-app/static/css/main.d8c33b0c.chunk.css"
   },
   {
-    "revision": "af01b3abd5626e261578",
-    "url": "/later-app/static/js/main.06486c3d.chunk.js"
+    "revision": "7b657163883548d22c48",
+    "url": "/later-app/static/js/main.bd8c9760.chunk.js"
   },
   {
     "revision": "756967bf4f76d9881254",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/later-app/static/js/2.ba1b3998.chunk.js"
   },
   {
-    "revision": "3ccaba17bfba5b8ad7528ce04b5a5869",
+    "revision": "44b8058cbcb5404e28f876fc79d30cfe",
     "url": "/later-app/index.html"
   }
 ];
